@@ -1,0 +1,17 @@
+label{
+    text-transform: capitalize;
+}
+
+.form-grp1{
+    display: flex;
+    gap: 10px;
+}
+
+.form-grp1 .form-grp{
+    width: 50%;
+}
+
+.assign-container{
+    max-width: 700px;
+    width: 100%;
+}
